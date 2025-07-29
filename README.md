@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Milu from Viet Nam and working on SMY
-- 🌱 I’m currently learning at Cho Gao high school
-- 💞️ I’m looking to collaborate on research on AI ( artificial intelligence)
+👋 Hey there, I’m Milu!
+🌏 From Vietnam, recently graduated from Cho Gao high school.
+
+🎮 Currently exploring game development, app building, and tinkering with some small side projects.
+
+💡 Interested in Computer Science fundamentals, automation, and how things work under the hood.
+
+🚀 Always curious, always learning — I enjoy turning ideas into working prototypes.
+
+📂 Working on projects that mix creativity + technology, and aiming to grow into a well-rounded developer.
  
 
 <!---
